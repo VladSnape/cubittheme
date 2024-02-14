@@ -1,7 +1,16 @@
 # cubittheme
 
-A new Flutter project.
-
+cubbittheme , is a todo app ,  it is built on the clean architecture theory , using bloc as a state management , also , hive as a local database , for storing data 
+features : 
+- add notes
+- create notes
+- edit notes
+- change if its done or note
+- change the theme
+- delete all notes
+- delete a note
+- add title to a note
+- ... more features
 ## Getting Started
 
 This project is a starting point for a Flutter application.
